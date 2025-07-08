@@ -1,34 +1,34 @@
 # Hostel Dex - Hostel Issue Tracking Platform
 
-![Hostel Dex Banner](./public/banner-placeholder.png) <!-- Replace with actual banner image -->
+![Hostel Dex Banner](https://collegedunia.com/university/25914-vellore-institute-of-technology-vit-university-vellore/hostel) <!-- Replace with actual banner image -->
 
 A modern, full-stack hostel issue tracking system built with React, TypeScript, and Tailwind CSS. Hostel Dex streamlines maintenance request management for both students and administrators with a beautiful, responsive interface.
 
-## Features
+🚀 Features
 
-- **Role-based Authentication** (Mocked for demo)
+- Role-based Authentication** (Mocked for demo)
   - Student and admin roles with different permissions
   - Secure login/logout functionality
-- **Comprehensive Ticket Management**
+- Comprehensive Ticket Management
   - Create tickets with title, description, priority, and category
   - Attach images/videos to tickets
   - Filter and search tickets by status, priority, or keywords
   - Update ticket status (Open, In Progress, Resolved)
-- **Admin Dashboard**
+- Admin Dashboard
   - Visual statistics of ticket status distribution
   - Urgent ticket highlighting
   - Issue type breakdown charts
-- **User Profiles**
+- User Profiles
   - Edit profile information
   - Upload profile photos
-- **Notification System**
+- **Notification System
   - Real-time updates on ticket status changes
   - Unread notifications indicator
-- **Modern UI**
+- Modern UI
   - Responsive design for all devices
   - Clean, intuitive interface with Tailwind CSS
   - Lucide React icons for consistent visuals
-- **Demo-Friendly**
+- Demo-Friendly
   - LocalStorage persistence (no backend required)
   - Pre-populated demo data
 
